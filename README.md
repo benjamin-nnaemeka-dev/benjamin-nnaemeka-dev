@@ -9,21 +9,20 @@
 ### 👋 Hi, I'm Benjamin Nnaemeka  
 I build **Android apps** with clean code and **solid architecture**, focused on **performance** and **maintainability** so that your app won't crumble under real-world usage.
 ### About me
-- 🤝 Open to collaborations on impactful projects and open source
 - 🌍 Available for remote projects and freelance work  
+- 🤝 Open to collaborations on impactful projects and open source
 - 💬 Ask me anything [**here**](https://github.com/benjamin-nnaemeka-dev/benjamin-nnaemeka-dev/issues)
 
 <!-- Inline Tech Icons -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="25" height="25"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/>
-</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg?raw=true" width="25" height="25"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg?raw=true" width="25" height="25"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true" width="25" height="25"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg?raw=true" width="25" height="25"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg?raw=true" width="25" height="25"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg?raw=true" width="25" height="25"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg?raw=true" width="25" height="25"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?raw=true" width="25" height="25"/
 
 <!-- Stats + Languages Side by Side -->
 <table>
