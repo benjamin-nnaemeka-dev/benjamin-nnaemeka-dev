@@ -25,21 +25,21 @@ I build **Android apps** with clean code and **solid architecture**, focused on 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?raw=true" width="25" height="25"/
 
 <!-- Stats + Languages Side by Side -->
-<table>
-<tr>
+<!-- <table>
+<tr> -->
 
 <!-- GitHub Stats (Left Column) -->
-<td valign="top" width="50%" align="center">
+<!-- <td valign="top" width="50%" align="center">
   <img src="https://github-readme-stats-kappa-black-89.vercel.app/api?username=benjamin-nnaemeka-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true&cache_seconds=1800"/>
-</td>
+</td> -->
 
 <!-- Top Languages (Right Column) -->
-<td valign="top" width="50%" align="center">
+<!-- <td valign="top" width="50%" align="center">
   <img src="https://github-readme-stats-kappa-black-89.vercel.app/api/top-langs/?username=benjamin-nnaemeka-dev&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
-</td>
+</td> -->
 
-</tr>
-</table>
+<!-- </tr>
+</table> -->
 
 ---
 
