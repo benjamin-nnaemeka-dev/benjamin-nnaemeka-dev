@@ -1,46 +1,28 @@
-<!-- Header Section -->
-<div align="center">
-  <!-- Coding GIF -->
-  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400" alt="Developer coding" style="display:block;" />
+<div align="left">
+
+# 👋 Hi, I'm Benjamin Nnaemeka
+
+I build Android apps and the AI tools and automation pipelines that power them.
+- 🌍 Open to remote work and freelance
+- 🤝 Open to collaborations on impactful projects
+- 💬 Ask me anything [here](https://github.com/benjamin-nnaemeka-dev/benjamin-nnaemeka-dev/issues)
+<br/>
+
+<!-- <div align="center">
+
+[![View Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-google-drive-link-here)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-google-drive-link-here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link-here)
+
 </div>
+<br/> -->
+  
+**Android & Mobile**
 
----
+<img src="https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,kotlin,jetpackcompose,java,firebase,nodejs" height="40" />
 
-### 👋 Hi, I'm Benjamin Nnaemeka  
-I build **Android apps** with clean code and **solid architecture**, focused on **performance** and **maintainability** so that your app won't crumble under real-world usage.
-### About me
-- 🌍 Available for remote projects and freelance work  
-- 🤝 Open to collaborations on impactful projects and open source
-- 💬 Ask me anything [**here**](https://github.com/benjamin-nnaemeka-dev/benjamin-nnaemeka-dev/issues)
+**Web, Automation & Tools**
 
-<!-- Inline Tech Icons -->
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg?raw=true" width="25" height="25"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg?raw=true" width="25" height="25"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true" width="25" height="25"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg?raw=true" width="25" height="25"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg?raw=true" width="25" height="25"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg?raw=true" width="25" height="25"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg?raw=true" width="25" height="25"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?raw=true" width="25" height="25"/
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,n8n,git,github" height="40" />
 
-<!-- Stats + Languages Side by Side -->
-<!-- <table>
-<tr> -->
-
-<!-- GitHub Stats (Left Column) -->
-<!-- <td valign="top" width="50%" align="center">
-  <img src="https://github-readme-stats-kappa-black-89.vercel.app/api?username=benjamin-nnaemeka-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true&cache_seconds=1800"/>
-</td> -->
-
-<!-- Top Languages (Right Column) -->
-<!-- <td valign="top" width="50%" align="center">
-  <img src="https://github-readme-stats-kappa-black-89.vercel.app/api/top-langs/?username=benjamin-nnaemeka-dev&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
-</td> -->
-
-<!-- </tr>
-</table> -->
-
----
-
-💡 *Clean architecture. Scalable systems. Performance by design.*
+</div>
