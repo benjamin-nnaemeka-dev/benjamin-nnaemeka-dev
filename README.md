@@ -16,7 +16,8 @@ I build Android apps and the AI tools and automation pipelines that power them.
 
 </div>
 <br/> -->
-  
+
+## 🛠️ Tools I work with
 **Android & Mobile**
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,kotlin,jetpackcompose,java,firebase,nodejs" height="40" />
