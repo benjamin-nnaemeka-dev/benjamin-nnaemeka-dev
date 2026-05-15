@@ -1,17 +1,36 @@
 <div align="left">
 
-# 👋 Hi, I'm Benjamin Nnaemeka
+# Benjamin Nnaemeka
 
-I build Android apps and the AI tools and automation pipelines that power them.
+I turn business problems into shipped software. Android apps, automation workflows, and AI voice agents that actually run in production.
 
-- 🌐 Portfolio: [View my work](https://benjamin-nnaemeka.dev)
-- 🌍 Open to remote work and freelance
-- 🤝 Open to collaborations on impactful projects
-- 💬 Ask me anything [here](https://github.com/benjamin-nnaemeka-dev/benjamin-nnaemeka-dev/issues)
+---
 
-### </> The Full Stack
-| **Mobile & UI** | **Backend & Logic** | **Workflow & Ops** |
-| :--- | :--- | :---|
+### Currently building
+
+- **[Zennod](https://github.com/benjamin-nnaemeka-dev)** - AI and automation workflow marketplace for Android
+
+### Shipped
+
+- **[Mama Tee's Kitchen](https://github.com/benjamin-nnaemeka-dev)** - AI voice agent that handles restaurant calls, built with Vapi, n8n, Supabase, and a React dashboard
+- **[Nexus Dunning](https://github.com/benjamin-nnaemeka-dev)** - Payment recovery service for Paystack businesses. Connect your credentials, and the system retries failed charges and reports recovery progress in a live dashboard
+- **[FormBot](https://github.com/benjamin-nnaemeka-dev/form-bot)** - Automates Google Form submissions using Gemini 2.5 Flash and Playwright
+- **[LinkUp](https://github.com/benjamin-nnaemeka-dev/linkup)** - Automates LinkedIn connection requests at scale from bulk profile lists
+
+---
+
+### The stack
+
+| Mobile & UI | Backend & Logic | Workflow & Ops |
+| :--- | :--- | :--- |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,kotlin,jetpackcompose" height="35" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,firebase,supabase" height="35" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n,git,github" height="35" /> |
+
+---
+
+### Work together
+
+- Portfolio: [benjamin-nnaemeka.dev](https://benjamin-nnaemeka.dev)
+- LinkedIn: [in/benjamin-nnaemeka](https://linkedin.com/in/benjamin-nnaemeka)
+- Email: benjamin.nnaemeka.dev@gmail.com
 
 </div>
