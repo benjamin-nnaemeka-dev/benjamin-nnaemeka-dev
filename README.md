@@ -31,6 +31,6 @@ I turn business problems into shipped software. Android apps, automation workflo
 
 - Portfolio: [benjamin-nnaemeka.dev](https://benjamin-nnaemeka.dev)
 - LinkedIn: [in/benjamin-nnaemeka](https://linkedin.com/in/benjamin-nnaemeka)
-- Email: benjamin.nnaemeka.dev@gmail.com
+- Email: contact@benjamin-nnaemeka.dev
 
 </div>
