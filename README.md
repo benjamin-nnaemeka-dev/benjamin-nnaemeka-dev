@@ -12,8 +12,8 @@ I turn business problems into shipped software. Android apps, automation workflo
 
 ### Shipped
 
-- **[Mama Tee's Kitchen](https://github.com/benjamin-nnaemeka-dev)** - AI voice agent for restaurant calls. Vapi, n8n, Supabase, React dashboard.
-- **[Nexus Dunning](https://github.com/benjamin-nnaemeka-dev)** - Recovers customers after failed Paystack payments, with WhatsApp, email, and dashboard alerts.
+- **[Mama Tee's Kitchen](https://github.com/benjamin-nnaemeka-dev/mama-tees-kitchen)** - AI voice agent for restaurant calls. Vapi, n8n, Supabase, React dashboard.
+- **[Nexus Dunning](https://github.com/benjamin-nnaemeka-dev/nexu-dunning)** - Recovers customers after failed Paystack payments, with WhatsApp, email, and dashboard alerts.
 - **[FormBot](https://github.com/benjamin-nnaemeka-dev/form-bot)** - Automates Google Form filling & submissions with Gemini and Playwright.
 - **[LinkUp](https://github.com/benjamin-nnaemeka-dev/linkup)** - Automates LinkedIn connection requests from bulk profile lists.
 
