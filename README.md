@@ -8,8 +8,6 @@ A Software engineer focused on building mobile products, AI automation, and busi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-benjamin--nnaemeka-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-nnaemeka)
 [![Email](https://img.shields.io/badge/Email-contact%40benjamin--nnaemeka.dev-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@benjamin-nnaemeka.dev)
 
----
-
 ### Projects
  
 <table>
@@ -34,8 +32,6 @@ A Software engineer focused on building mobile products, AI automation, and busi
     </td>
   </tr>
 </table>
-
----
 
 ### Tools
 
