@@ -20,7 +20,7 @@
       <img src="https://i.ibb.co/ksXtKrJh/Cliqpay.png" width="50" alt="Cliqpay Logo" /><br>
       <strong>CliqPay</strong><br /><br />
       Nigerian fintech Android app for airtime, data, and bill payments, built for everyday transactions.<br /><br />
-      <a href="https://cliqpay.benjamin-nnaemeka.dev">Join the waitlist</a>
+      <a href="https://cliqpay.getapexly.com">Join the waitlist</a>
     </td>
   </tr>
 </table>
