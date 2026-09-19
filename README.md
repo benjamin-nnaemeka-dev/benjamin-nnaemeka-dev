@@ -25,14 +25,4 @@
   </tr>
 </table>
 
-### Tools
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-     <img src="https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,kotlin,java,jetpackcompose,typescript,n8n,git,github,docker,postman,vscode,redis,nodejs,firebase,supabase,pinecone,claude,chatgpt" height="100" />
-    </td>
-  </tr>
-</table>
-
 </div>
