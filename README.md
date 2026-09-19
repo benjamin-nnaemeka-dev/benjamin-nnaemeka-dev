@@ -1,11 +1,5 @@
 <div align="center">
 
-# Hi!👋, I'm Benjamin Nnaemeka
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-benjamin--nnaemeka.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://benjamin-nnaemeka.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-benjamin--nnaemeka-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-nnaemeka)
-[![Email](https://img.shields.io/badge/Email-contact%40benjamin--nnaemeka.dev-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@benjamin-nnaemeka.dev)
-
 ### Products
 
 <table>
